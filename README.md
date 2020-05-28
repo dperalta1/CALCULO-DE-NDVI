@@ -67,11 +67,45 @@ Este programa tiene como simple finalidad encontrar el calculo de vegetacion san
 
 ![calculo de vegetacion](https://user-images.githubusercontent.com/52055695/83091834-bb211200-a061-11ea-849f-372ea6e7de2f.png)
 
+# 6. Manejo de datos
+
+En este apartado aclararemos de que manera fue echo el programa y todas aquellas especificaciones que se dieron para su posterior manejo.
+
+# 6. tipo de datos
+
+Datos geoespaciales: estos datos son los que utilizaremos en este programa debido a que nosotros solo estaremos llamando archivos en formato tif y nuestra salida será una imagen del calculo de NDVI.
+
+# 6. sistema operati
+
+El programa que se vío anteriormente esta diseñado para ser trabajado en la plataforma de Qgis con la ayuda de python, esto debido a que el solo lenguaje de python requiere de muchos agustes para poder tener acceso a diferentes librerias. Por lo tanto el programa esta diseeñado para ser trabajado en Qgis en la versión 3.4, pero de igual manera se podria trabajar con la version 3.
+
+
+# 6. Equipo de ejecucio
+
+
+![equipo1](https://user-images.githubusercontent.com/52055695/83092492-0e479480-a063-11ea-9e44-17dd99aa92e6.png)
+
+![equipo2](https://user-images.githubusercontent.com/52055695/83092511-143d7580-a063-11ea-8c1f-8d4e16cb7d46.png)
+
+# Resultados
+
+Se logro hacer un programa que calculara el índice de vegetación el cual dio una imagen con los determinados datos.
+
+![resultados](https://user-images.githubusercontent.com/52055695/83092690-6c747780-a063-11ea-938a-5e5a308d47b5.png)
 
 
 # CONLUCIONES
 
+Como conclución puedo llegar a decir que el programa de python es de gran utilidad a las carreras de ingeniería debido a que con esto podemos sistematizar los grandes y diferentes problemas que con regularidadad pueden llegar en un campo laboral. Personalmente python con Qgis me resulto ser una gran herramienta la cual puede manejar casi cualquier tipo de datos y que tiene una gran capacidad para trabajar en estos.
 
-# Daniel Alexandro Peralta Landin
+# referencias
+
+Dobias, M. (2010). PyQgis Documentation. Recuperado de https://docs.qgis.org/3.4/pdf/es/QGIS-3.4-PyQGISDeveloperCookbook-es.pdf 
+Documentación QGIS API . (s. f.). Recuperado 15 de abril de 2019, de https://qgis.org/api/
+
+# 6. Notas
+
+Cabe mencionar que en el programa informatico se debe de correr primeramente el codigo con la ubicación del archivo, para posteriormente  con ayuda de la lista que se genera del lado izquierdo extraer las correspondientes bandas que son las 8 y 4 respectivamente e ingresar el nombre de ellas en el  el código.  
+
 
 
