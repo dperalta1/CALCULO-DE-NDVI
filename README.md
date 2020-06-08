@@ -1,11 +1,9 @@
 
 
-# Ingeniero Topógrafo Geomático 1604
+# PE-I604 Ingeniero Topógrafo Geomático
 
-# PE-ITP
     
 Daniel Alexander Peralta Landin
-correo electronico: 
 dperalta1@ucol.mx
 
 
