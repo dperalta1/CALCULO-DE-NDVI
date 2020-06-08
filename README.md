@@ -1,6 +1,6 @@
 
 
-# Ingeniero Topògrafo Geomático 1604
+# Ingeniero Topógrafo Geomático 1604
 
 # PE-ITP
     
@@ -9,7 +9,7 @@ correo electronico:
 dperalta1@ucol.mx
 
 
-# Abstract
+# Resumen
 
 Se pretende calcular con exactitud el calculo de vegetacion sana para poder dar una respuesta a autoridades gubernamentales, esto con la clara finalidad de gestionar proyectos que promuevan la prosperacion de la flora y de manera secundaria de la fauna.
 
